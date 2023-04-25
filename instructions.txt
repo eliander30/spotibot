@@ -1,0 +1,10 @@
+NOTE FOR WINDWOWS need to isntall the following
+https://www.python.org/downloads/
+https://pip.pypa.io/en/stable/installation/
+pip install selenium
+
+1- must have google chrome installed 
+2- install selenium with the following command "pip3 install selenium"
+3- run extract the script to a folder
+4- open a terminal where u extract the file
+5- execute the bot with the following command "python3 spotibot.py"
