@@ -5,9 +5,9 @@ import time
 from selenium.webdriver import ActionChains
 import random
 
-EMAIL = "testerprome123@proton.me"
-PASSWORD = "tutetatota123"
-PLAYLIST = "https://spotify.app.link/b2FDqju8ezb?_p=c51629ca911c65f0e1038bfb"
+EMAIL = " "
+PASSWORD = " "
+PLAYLIST = " "
 
 driver = webdriver.Chrome()
 	
